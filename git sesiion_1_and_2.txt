@@ -2,13 +2,16 @@ Web hosting?
 
 demo test 
 
-demo test 2
+demo test
+asdasd
+asdasd
+dasd
+asdasd
+asd
+asdas
+d
 
 
-
-1.A web hosting service is type of Internet hosting service that allows 
-individuals and organization to make thier website accessible via world
-wide web.
 
 2.Web hosts are companies that provide space on a server leased for use bye clients as well as
 providing internet connectivity,typically in data center.
